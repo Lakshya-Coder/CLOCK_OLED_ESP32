@@ -1,0 +1,6 @@
+enum State {
+  WELCOME_SCREEN,
+  NOT_CONNECTED_TO_WIFI,
+  CLOCK,
+  STOPWATCH
+};
